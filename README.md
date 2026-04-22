@@ -1,4 +1,21 @@
-## Hi there 👋
+Hi, I’m Francine! I’m a Computer Science student at the University of Illinois at Chicago (Class of 2026), and I really enjoy working on systems, infrastructure, and performance-focused software.
+
+Lately I’ve been especially interested in operating systems, compilers, and concurrency. I like digging into how things actually work under the hood, whether that’s memory management, scheduling, or just understanding why something is slow and how to fix it. I tend to gravitate toward problems where I can get into the details and build something that’s both efficient and reliable.
+
+Technical Toolkit
+C, C++, Rust, Go, Python, Java, SQL, JavaScript/TypeScript
+Linux, multithreading, concurrency
+GDB, Valgrind
+AWS, Azure, Databricks, MySQL
+
+Relevant Coursework
+Operating Systems
+Concurrent Programming
+Compilers
+Systems Performance
+
+What I’m working on
+Right now I’m building a few projects focused on systems and low-level programming. I’ll include a table below with links and details as I keep adding to them.
 
 <!--
 **bot666clank/bot666clank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
