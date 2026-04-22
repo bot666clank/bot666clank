@@ -6,7 +6,6 @@ Technical Toolkit: C, C++, Rust, Go, Python, Java, SQL, JavaScript/TypeScript, L
 
 Relevant Coursework: Operating Systems, Concurrent Programming, Compiler Design, Systems Performance, Intro to High Performance Computing
 
-What I’m working on
 Right now I’m building a few projects focused on systems and low-level programming. I’ll include a table below with links and details as I keep adding to them.
 
 <!--
