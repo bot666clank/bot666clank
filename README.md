@@ -8,6 +8,9 @@ Relevant Coursework: Operating Systems, Concurrent Programming, Compiler Design,
 
 Right now I’m building a few projects focused on systems and low-level programming. I’ll include a table below with links and details as I keep adding to them.
 
+- ML Model - Utilizing machine learning methods to detect anomalies
+- xv6 Extension - Implemented systems performance tools such as perf and strace 
+
 <!--
 **bot666clank/bot666clank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
